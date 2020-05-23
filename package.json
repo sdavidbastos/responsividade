@@ -1,0 +1,9 @@
+{
+  "name": "responsividade",
+  "version": "1.0.0",
+  "description": "Applying responsiveness",
+  "main": "index.html",
+  "repository": "https://github.com/sdavidbastos/responsividade.git",
+  "author": "David Tavares Bastos",
+  "license": "MIT"
+}
